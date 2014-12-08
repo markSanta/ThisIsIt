@@ -28,6 +28,7 @@ public class StudentTest {
 
     @org.junit.Test
     public void testSomeMethod() {
+        System.out.println("Testing Hallo Student");
         // TODO review the generated test code and remove the default call to fail.
         fail("The test case is a prototype.");
     }
