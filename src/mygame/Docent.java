@@ -10,4 +10,8 @@ package mygame;
  */
 public class Docent {
     
+    public void print(){
+        System.out.println("added a methode");
+    }
+    
 }
